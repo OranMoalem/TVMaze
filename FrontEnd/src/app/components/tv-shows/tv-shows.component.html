@@ -1,0 +1,31 @@
+<h1>Welcome to tv-shows website !</h1>
+
+<p>Start searching now</p>
+
+<label>Search : </label>
+<input [(ngModel)]="textToSearch" />
+<button (click)="startSearch()">Start</button>
+<br><br>
+
+<div *ngIf="tvShows">
+    <table id="table" *ngIf="tvShows">
+        <tr>
+            <th>ID</th>
+            <th>URL</th>
+            <th>Average rating</th>
+            <th>Image Url </th>
+            <th>Name</th>
+            <th>Official Site</th>
+        </tr>
+        <tr *ngFor="let t of tvShows">
+            <td>{{t.show?.id}}</td>
+            <td>{{t.show?.url}}</td>
+            <td>{{t.show.rating.average}}</td>
+            <td>
+                <img [src]="t.show.image?.original">
+            <td>{{t.show?.name}}</td>
+            <td>{{t.show?.officialSite}}</td>
+            
+        </tr>
+    </table>
+</div>  

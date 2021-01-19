@@ -1,0 +1,88 @@
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.exe
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.deps.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.dev.json
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Users\oranm\source\repos\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csprojAssemblyReference.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfoInputs.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfo.cs
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csproj.CoreCompileInputs.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.RazorTargetAssemblyInfo.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.Manifest.cache
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.xml
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Users\oranm\source\repos\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.genruntimeconfig.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.exe
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.deps.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.dev.json
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Nancy.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\WebGrease.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Business Model.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Business Model.pdb
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csprojAssemblyReference.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfoInputs.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfo.cs
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csproj.CoreCompileInputs.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.RazorTargetAssemblyInfo.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csproj.CopyComplete
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.Manifest.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.xml
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Users\oranm\Desktop\Mission\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.genruntimeconfig.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.exe
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.deps.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.runtimeconfig.dev.json
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Nancy.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\WebGrease.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Business Model.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\bin\Debug\netcoreapp3.1\Business Model.pdb
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csprojAssemblyReference.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfoInputs.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.AssemblyInfo.cs
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csproj.CoreCompileInputs.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.RazorTargetAssemblyInfo.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.csproj.CopyComplete
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.Manifest.cache
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\staticwebassets\TVMazeSearch.StaticWebAssets.xml
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.dll
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.pdb
+C:\Projects FullStack\3 GitHub\TVMaze\BackEnd\TVMazeSearch\obj\Debug\netcoreapp3.1\TVMazeSearch.genruntimeconfig.cache

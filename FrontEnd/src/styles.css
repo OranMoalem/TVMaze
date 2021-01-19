@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: lightblue;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: ubuntu, sans-serif;
+    text-align: center;
+}
+
+@font-face {
+    font-family: ubuntu;
+    src: url(src/assets/assets/fonts/Ubuntu/Ubuntu-Light.ttf);
+}

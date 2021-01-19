@@ -1,0 +1,9 @@
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\bin\Debug\netcoreapp3.1\Business Model.deps.json
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\bin\Debug\netcoreapp3.1\Business Model.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\bin\Debug\netcoreapp3.1\Business Model.pdb
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.csprojAssemblyReference.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.AssemblyInfoInputs.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.AssemblyInfo.cs
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.csproj.CoreCompileInputs.cache
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.dll
+C:\Users\oranm\Desktop\Mission\BackEnd\Business Model\obj\Debug\netcoreapp3.1\Business Model.pdb
