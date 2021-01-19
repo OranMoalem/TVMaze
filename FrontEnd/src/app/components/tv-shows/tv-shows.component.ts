@@ -15,7 +15,7 @@ export class TvShowsComponent  {
 public async startSearch() {
     try {
         this.tvShows = await this.tvMazeService.getTVShows(this.textToSearch);
-        console.log(this.tvShows);
+        
         }
         catch(err) {
             alert(err.message);
